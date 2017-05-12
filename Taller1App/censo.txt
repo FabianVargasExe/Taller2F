@@ -1,0 +1,608 @@
+Comuna: La Serena
+20
+ Nombre: La Serena
+ Edad: 45
+ Ocupacion: Arquitecto
+ Cantidad Familia: 7
+ Nombre: La Serena
+ Edad: 65
+ Ocupacion: Doctor
+ Cantidad Familia: 9
+ Nombre: La Serena
+ Edad: 70
+ Ocupacion: Jubilado
+ Cantidad Familia: 10
+ Nombre: La Serena
+ Edad: 25
+ Ocupacion: Desempleada
+ Cantidad Familia: 3
+ Nombre: La Serena
+ Edad: 33
+ Ocupacion: Profesora
+ Cantidad Familia: 5
+ Nombre: La Serena
+ Edad: 45
+ Ocupacion: Ingeniero
+ Cantidad Familia: 10
+ Nombre: La Serena
+ Edad: 27
+ Ocupacion: Desempleado
+ Cantidad Familia: 2
+ Nombre: La Serena
+ Edad: 44
+ Ocupacion: Desempleado
+ Cantidad Familia: 7
+ Nombre: La Serena
+ Edad: 35
+ Ocupacion: Doctor
+ Cantidad Familia: 5
+ Nombre: La Serena
+ Edad: 69
+ Ocupacion: Jubilada
+ Cantidad Familia: 10
+ Nombre: La Serena
+ Edad: 55
+ Ocupacion: Constructor
+ Cantidad Familia: 8
+ Nombre: La Serena
+ Edad: 60
+ Ocupacion: Dentista
+ Cantidad Familia: 11
+ Nombre: La Serena
+ Edad: 42
+ Ocupacion: Profesora
+ Cantidad Familia: 3
+ Nombre: La Serena
+ Edad: 33
+ Ocupacion: Desempleada
+ Cantidad Familia: 6
+ Nombre: La Serena
+ Edad: 62
+ Ocupacion: Desempleado
+ Cantidad Familia: 7
+ Nombre: La Serena
+ Edad: 28
+ Ocupacion: Doctor
+ Cantidad Familia: 2
+ Nombre: La Serena
+ Edad: 39
+ Ocupacion: Constructor
+ Cantidad Familia: 6
+ Nombre: La Serena
+ Edad: 48
+ Ocupacion: Desempleado
+ Cantidad Familia: 7
+ Nombre: La Serena
+ Edad: 77
+ Ocupacion: Jubilado
+ Cantidad Familia: 8
+ Nombre: La Serena
+ Edad: 23
+ Ocupacion: Estudiante
+ Cantidad Familia: 1
+Comuna: Coquimbo
+17
+ Nombre: Coquimbo
+ Edad: 48
+ Ocupacion: Dentista
+ Cantidad Familia: 6
+ Nombre: Coquimbo
+ Edad: 59
+ Ocupacion: Desempleada
+ Cantidad Familia: 12
+ Nombre: Coquimbo
+ Edad: 33
+ Ocupacion: Enfermera
+ Cantidad Familia: 3
+ Nombre: Coquimbo
+ Edad: 25
+ Ocupacion: Estudiante
+ Cantidad Familia: 2
+ Nombre: Coquimbo
+ Edad: 66
+ Ocupacion: Jubilado
+ Cantidad Familia: 10
+ Nombre: Coquimbo
+ Edad: 55
+ Ocupacion: Desempleada
+ Cantidad Familia: 8
+ Nombre: Coquimbo
+ Edad: 33
+ Ocupacion: Doctor
+ Cantidad Familia: 3
+ Nombre: Coquimbo
+ Edad: 69
+ Ocupacion: Jubilado
+ Cantidad Familia: 8
+ Nombre: Coquimbo
+ Edad: 45
+ Ocupacion: Enfermera
+ Cantidad Familia: 7
+ Nombre: Coquimbo
+ Edad: 66
+ Ocupacion: Desempleado
+ Cantidad Familia: 2
+ Nombre: Coquimbo
+ Edad: 42
+ Ocupacion: Periodista
+ Cantidad Familia: 6
+ Nombre: Coquimbo
+ Edad: 68
+ Ocupacion: Jubilado
+ Cantidad Familia: 10
+ Nombre: Coquimbo
+ Edad: 45
+ Ocupacion: Bailarina
+ Cantidad Familia: 9
+ Nombre: Coquimbo
+ Edad: 33
+ Ocupacion: Zapatero
+ Cantidad Familia: 3
+ Nombre: Coquimbo
+ Edad: 32
+ Ocupacion: Abogada
+ Cantidad Familia: 5
+ Nombre: Coquimbo
+ Edad: 27
+ Ocupacion: Minero
+ Cantidad Familia: 2
+ Nombre: Coquimbo
+ Edad: 66
+ Ocupacion: Jubilada
+ Cantidad Familia: 7
+Comuna: La Higuera
+13
+ Nombre: La Higuera
+ Edad: 24
+ Ocupacion: Estudiante
+ Cantidad Familia: 3
+ Nombre: La Higuera
+ Edad: 78
+ Ocupacion: Jubilada
+ Cantidad Familia: 10
+ Nombre: La Higuera
+ Edad: 55
+ Ocupacion: Ingeniero
+ Cantidad Familia: 6
+ Nombre: La Higuera
+ Edad: 38
+ Ocupacion: Desempleado
+ Cantidad Familia: 5
+ Nombre: La Higuera
+ Edad: 60
+ Ocupacion: Cesante
+ Cantidad Familia: 8
+ Nombre: La Higuera
+ Edad: 39
+ Ocupacion: Periodista
+ Cantidad Familia: 5
+ Nombre: La Higuera
+ Edad: 58
+ Ocupacion: Cantante
+ Cantidad Familia: 2
+ Nombre: La Higuera
+ Edad: 46
+ Ocupacion: Aseo
+ Cantidad Familia: 6
+ Nombre: La Higuera
+ Edad: 55
+ Ocupacion: Desempleado
+ Cantidad Familia: 7
+ Nombre: La Higuera
+ Edad: 45
+ Ocupacion: Secretaria
+ Cantidad Familia: 5
+ Nombre: La Higuera
+ Edad: 25
+ Ocupacion: Empresaria
+ Cantidad Familia: 3
+ Nombre: La Higuera
+ Edad: 19
+ Ocupacion: Estudiante
+ Cantidad Familia: 2
+ Nombre: La Higuera
+ Edad: 33
+ Ocupacion: Medico
+ Cantidad Familia: 4
+Comuna: Andacollo
+14
+ Nombre: Andacollo
+ Edad: 58
+ Ocupacion: Cesante
+ Cantidad Familia: 7
+ Nombre: Andacollo
+ Edad: 59
+ Ocupacion: Cesante
+ Cantidad Familia: 8
+ Nombre: Andacollo
+ Edad: 56
+ Ocupacion: Medico
+ Cantidad Familia: 6
+ Nombre: Andacollo
+ Edad: 24
+ Ocupacion: Estudiante
+ Cantidad Familia: 2
+ Nombre: Andacollo
+ Edad: 39
+ Ocupacion: Empresaria
+ Cantidad Familia: 5
+ Nombre: Andacollo
+ Edad: 88
+ Ocupacion: Jubilado
+ Cantidad Familia: 9
+ Nombre: Andacollo
+ Edad: 66
+ Ocupacion: Jubilada
+ Cantidad Familia: 7
+ Nombre: Andacollo
+ Edad: 36
+ Ocupacion: Profesor
+ Cantidad Familia: 6
+ Nombre: Andacollo
+ Edad: 58
+ Ocupacion: Cesante
+ Cantidad Familia: 6
+ Nombre: Andacollo
+ Edad: 22
+ Ocupacion: Estudiante
+ Cantidad Familia: 2
+ Nombre: Andacollo
+ Edad: 23
+ Ocupacion: Estudiante
+ Cantidad Familia: 3
+ Nombre: Andacollo
+ Edad: 55
+ Ocupacion: Cesante
+ Cantidad Familia: 5
+ Nombre: Andacollo
+ Edad: 40
+ Ocupacion: Cesante
+ Cantidad Familia: 3
+ Nombre: Andacollo
+ Edad: 39
+ Ocupacion: Profesora
+ Cantidad Familia: 5
+Comuna: Paihuano
+13
+ Nombre: Paihuano
+ Edad: 25
+ Ocupacion: Estudiante
+ Cantidad Familia: 4
+ Nombre: Paihuano
+ Edad: 22
+ Ocupacion: Desempleada
+ Cantidad Familia: 3
+ Nombre: Paihuano
+ Edad: 69
+ Ocupacion: Jubilado
+ Cantidad Familia: 7
+ Nombre: Paihuano
+ Edad: 70
+ Ocupacion: Jubilado
+ Cantidad Familia: 8
+ Nombre: Paihuano
+ Edad: 33
+ Ocupacion: Cesante
+ Cantidad Familia: 3
+ Nombre: Paihuano
+ Edad: 36
+ Ocupacion: Empresaria
+ Cantidad Familia: 5
+ Nombre: Paihuano
+ Edad: 38
+ Ocupacion: Profesora
+ Cantidad Familia: 2
+ Nombre: Paihuano
+ Edad: 90
+ Ocupacion: Jubilado
+ Cantidad Familia: 8
+ Nombre: Paihuano
+ Edad: 65
+ Ocupacion: Jubilada
+ Cantidad Familia: 3
+ Nombre: Paihuano
+ Edad: 34
+ Ocupacion: Arquitecto
+ Cantidad Familia: 3
+ Nombre: Paihuano
+ Edad: 45
+ Ocupacion: Soldado
+ Cantidad Familia: 6
+ Nombre: Paihuano
+ Edad: 33
+ Ocupacion: Boxeador
+ Cantidad Familia: 4
+ Nombre: Paihuano
+ Edad: 24
+ Ocupacion: Estudiante
+ Cantidad Familia: 2
+Comuna: Ovalle
+15
+ Nombre: Ovalle
+ Edad: 55
+ Ocupacion: Profesora
+ Cantidad Familia: 6
+ Nombre: Ovalle
+ Edad: 57
+ Ocupacion: Medico
+ Cantidad Familia: 7
+ Nombre: Ovalle
+ Edad: 36
+ Ocupacion: Medico
+ Cantidad Familia: 3
+ Nombre: Ovalle
+ Edad: 76
+ Ocupacion: Jubilada
+ Cantidad Familia: 8
+ Nombre: Ovalle
+ Edad: 34
+ Ocupacion: Desempleada
+ Cantidad Familia: 3
+ Nombre: Ovalle
+ Edad: 35
+ Ocupacion: Constructor
+ Cantidad Familia: 5
+ Nombre: Ovalle
+ Edad: 48
+ Ocupacion: Cesante
+ Cantidad Familia: 7
+ Nombre: Ovalle
+ Edad: 29
+ Ocupacion: Ingeniero
+ Cantidad Familia: 2
+ Nombre: Ovalle
+ Edad: 68
+ Ocupacion: Profesor
+ Cantidad Familia: 8
+ Nombre: Ovalle
+ Edad: 25
+ Ocupacion: Estudiante
+ Cantidad Familia: 3
+ Nombre: Ovalle
+ Edad: 59
+ Ocupacion: Cesante
+ Cantidad Familia: 7
+ Nombre: Ovalle
+ Edad: 80
+ Ocupacion: Jubilado
+ Cantidad Familia: 9
+ Nombre: Ovalle
+ Edad: 30
+ Ocupacion: Medico
+ Cantidad Familia: 3
+ Nombre: Ovalle
+ Edad: 28
+ Ocupacion: Arquitecta
+ Cantidad Familia: 3
+ Nombre: Ovalle
+ Edad: 25
+ Ocupacion: Estudiante
+ Cantidad Familia: 2
+Comuna: Monte Patria
+15
+ Nombre: Monte Patria
+ Edad: 38
+ Ocupacion: Periodista
+ Cantidad Familia: 6
+ Nombre: Monte Patria
+ Edad: 56
+ Ocupacion: Profesora
+ Cantidad Familia: 8
+ Nombre: Monte Patria
+ Edad: 36
+ Ocupacion: Cesante
+ Cantidad Familia: 3
+ Nombre: Monte Patria
+ Edad: 85
+ Ocupacion: Jubilada
+ Cantidad Familia: 7
+ Nombre: Monte Patria
+ Edad: 50
+ Ocupacion: Medico
+ Cantidad Familia: 6
+ Nombre: Monte Patria
+ Edad: 29
+ Ocupacion: Cesante
+ Cantidad Familia: 3
+ Nombre: Monte Patria
+ Edad: 38
+ Ocupacion: Cirujano
+ Cantidad Familia: 5
+ Nombre: Monte Patria
+ Edad: 28
+ Ocupacion: Enfermera
+ Cantidad Familia: 3
+ Nombre: Monte Patria
+ Edad: 45
+ Ocupacion: Cesante
+ Cantidad Familia: 6
+ Nombre: Monte Patria
+ Edad: 60
+ Ocupacion: Jubilada
+ Cantidad Familia: 6
+ Nombre: Monte Patria
+ Edad: 61
+ Ocupacion: Constructor
+ Cantidad Familia: 2
+ Nombre: Monte Patria
+ Edad: 35
+ Ocupacion: Periodista
+ Cantidad Familia: 5
+ Nombre: Monte Patria
+ Edad: 50
+ Ocupacion: Cesante
+ Cantidad Familia: 6
+ Nombre: Monte Patria
+ Edad: 45
+ Ocupacion: Profesor
+ Cantidad Familia: 5
+ Nombre: Monte Patria
+ Edad: 22
+ Ocupacion: Cesante
+ Cantidad Familia: 2
+Comuna: Punitaqui
+12
+ Nombre: Punitaqui
+ Edad: 30
+ Ocupacion: Medico
+ Cantidad Familia: 3
+ Nombre: Punitaqui
+ Edad: 45
+ Ocupacion: Enfermera
+ Cantidad Familia: 6
+ Nombre: Punitaqui
+ Edad: 40
+ Ocupacion: Profesora
+ Cantidad Familia: 5
+ Nombre: Punitaqui
+ Edad: 35
+ Ocupacion: Mesera
+ Cantidad Familia: 3
+ Nombre: Punitaqui
+ Edad: 60
+ Ocupacion: Jubilada
+ Cantidad Familia: 7
+ Nombre: Punitaqui
+ Edad: 50
+ Ocupacion: Chef
+ Cantidad Familia: 6
+ Nombre: Punitaqui
+ Edad: 30
+ Ocupacion: Boxeador
+ Cantidad Familia: 2
+ Nombre: Punitaqui
+ Edad: 56
+ Ocupacion: Profesora
+ Cantidad Familia: 7
+ Nombre: Punitaqui
+ Edad: 35
+ Ocupacion: Chef
+ Cantidad Familia: 5
+ Nombre: Punitaqui
+ Edad: 40
+ Ocupacion: Empresaria
+ Cantidad Familia: 4
+ Nombre: Punitaqui
+ Edad: 22
+ Ocupacion: Estudiante
+ Cantidad Familia: 2
+ Nombre: Punitaqui
+ Edad: 60
+ Ocupacion: Jubilada
+ Cantidad Familia: 6
+Comuna: Los Vilos
+16
+ Nombre: Los Vilos
+ Edad: 55
+ Ocupacion: Cesante
+ Cantidad Familia: 6
+ Nombre: Los Vilos
+ Edad: 30
+ Ocupacion: Constructor
+ Cantidad Familia: 3
+ Nombre: Los Vilos
+ Edad: 31
+ Ocupacion: Constructor
+ Cantidad Familia: 5
+ Nombre: Los Vilos
+ Edad: 50
+ Ocupacion: Astronoma
+ Cantidad Familia: 6
+ Nombre: Los Vilos
+ Edad: 40
+ Ocupacion: Cesante
+ Cantidad Familia: 3
+ Nombre: Los Vilos
+ Edad: 39
+ Ocupacion: Cantante
+ Cantidad Familia: 2
+ Nombre: Los Vilos
+ Edad: 38
+ Ocupacion: Empresario
+ Cantidad Familia: 7
+ Nombre: Los Vilos
+ Edad: 54
+ Ocupacion: Profesora
+ Cantidad Familia: 8
+ Nombre: Los Vilos
+ Edad: 30
+ Ocupacion: Secretaria
+ Cantidad Familia: 3
+ Nombre: Los Vilos
+ Edad: 50
+ Ocupacion: Panadero
+ Cantidad Familia: 6
+ Nombre: Los Vilos
+ Edad: 25
+ Ocupacion: Estudiante
+ Cantidad Familia: 3
+ Nombre: Los Vilos
+ Edad: 39
+ Ocupacion: Profesor
+ Cantidad Familia: 7
+ Nombre: Los Vilos
+ Edad: 41
+ Ocupacion: Sicologa
+ Cantidad Familia: 5
+ Nombre: Los Vilos
+ Edad: 40
+ Ocupacion: Enfermera
+ Cantidad Familia: 6
+ Nombre: Los Vilos
+ Edad: 26
+ Ocupacion: Cesante
+ Cantidad Familia: 3
+ Nombre: Los Vilos
+ Edad: 50
+ Ocupacion: Medico
+ Cantidad Familia: 7
+Comuna: Canela
+12
+ Nombre: Canela
+ Edad: 22
+ Ocupacion: Estudiante
+ Cantidad Familia: 3
+ Nombre: Canela
+ Edad: 40
+ Ocupacion: Musico
+ Cantidad Familia: 5
+ Nombre: Canela
+ Edad: 50
+ Ocupacion: Piloto
+ Cantidad Familia: 7
+ Nombre: Canela
+ Edad: 40
+ Ocupacion: Cesante
+ Cantidad Familia: 2
+ Nombre: Canela
+ Edad: 60
+ Ocupacion: Constructor
+ Cantidad Familia: 6
+ Nombre: Canela
+ Edad: 58
+ Ocupacion: Zapatero
+ Cantidad Familia: 7
+ Nombre: Canela
+ Edad: 36
+ Ocupacion: Secretaria
+ Cantidad Familia: 3
+ Nombre: Canela
+ Edad: 45
+ Ocupacion: Medico
+ Cantidad Familia: 4
+ Nombre: Canela
+ Edad: 33
+ Ocupacion: Periodista
+ Cantidad Familia: 3
+ Nombre: Canela
+ Edad: 40
+ Ocupacion: Profesora
+ Cantidad Familia: 5
+ Nombre: Canela
+ Edad: 63
+ Ocupacion: Cesante
+ Cantidad Familia: 7
+ Nombre: Canela
+ Edad: 42
+ Ocupacion: Chef
+ Cantidad Familia: 5
